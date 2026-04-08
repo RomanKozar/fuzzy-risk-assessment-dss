@@ -2,6 +2,10 @@
 
 > Лабораторна робота №3 | Нечітка модель оцінювання ризику | JavaScript / HTML
 
+[![Live Demo](https://img.shields.io/badge/demo-online-green.svg?style=for-the-badge)](https://romankozar.github.io/fuzzy-risk-assessment-dss/)
+[![Methodology](https://img.shields.io/badge/Method-Fuzzy--Hybrid-blue.svg?style=for-the-badge)](https://github.com/RomanKozar/fuzzy-risk-assessment-dss)
+[![Version](https://img.shields.io/badge/version-1.0.0-orange.svg?style=for-the-badge)](https://github.com/RomanKozar/fuzzy-risk-assessment-dss/releases)
+
 ![Головна сторінка](preview.png)
 
 ---
